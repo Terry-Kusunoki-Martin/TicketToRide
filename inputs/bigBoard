@@ -1,0 +1,78 @@
+Vancouver:Calgary:3
+Vancouver:Seattle:1
+Seattle:Helena:6
+Calgary:Seattle:4
+Calgary:Helena:4
+Calgary:Winnipeg:6
+Helena:Winnipeg:4
+Helena:Duluth:6
+Winnipeg:Duluth:4
+Winnipeg:Sault St. Marie:6
+Duluth:Sault St. Marie:3
+Duluth:Toronto:6
+Sault St. Marie:Montreal:5
+Sault St. Marie:Toronto:2
+Toronto:Montreal:3
+Montreal:New York City:3
+Montreal:Boston:2
+Boston:New York City:2
+Seattle:Portland:1
+Portland:San Francisco:5
+Portland:Salt Lake City:6
+San Francisco:Salt Lake City:5
+San Francisco:Los Angeles:3
+Los Angeles:Las Vegas:2
+Las Vegas:Salt Lake City:3
+Salt Lake City:Helena:3
+Salt Lake City:Denver:3
+Los Angeles:Phoenix:3
+Los Angeles:El Paso:6
+Phoenix:El Paso:3
+Phoenix:Sante Fe:3
+Phoenix:Denver:5
+El Paso:Sante Fe:2
+Sante Fe:Denver:2
+Denver:Helena:4
+Denver:Omaha:4
+Denver:Kansas City:4
+Denver:Oklahoma City:4
+Sante Fe:Oklahoma City:3
+El Paso:Oklahoma City:5
+El Paso:Dallas:4
+El Paso:Houston:6
+Helena:Omaha:5
+Omaha:Duluth:2
+Omaha:Chicago:4
+Omaha:Kansas City:1
+Kansas City:Saint Louis:2
+Kansas City:Oklahoma City:2
+Oklahoma City:Little Rock:2
+Oklahoma City:Dallas:2
+Dallas:Little Rock:2
+Dallas:Houston:1
+Houston:New Orleans:2
+Duluth:Chicago:3
+Chicago:Toronto:4
+Chicago:Pittsburgh:3
+Chicago:Saint Louis:2
+Saint Louis:Pittsburgh:5
+Saint Louis:Nashville:2
+Saint Louis:Little Rock:2
+Little Rock:Nashville:3
+Little Rock:New Orleans:3
+Nashville:Raleigh:3
+Nashville:Atlanta:1
+New Orleans:Atlanta:4
+New Orleans:Miami:6
+Miami:Atlanta:5
+Miami:Charleston:4
+Atlanta:Charleston:2
+Atlanta:Raleigh:2
+Charleston:Raleigh:2
+Raleigh:Pittsburgh:2
+Raleigh:Washington:2
+Pittsburgh:Washington:2
+Pittsburgh:New York City:2
+New York City:Washington:2
+Pittsburgh:Toronto:2
+Pittsburgh:Nashville:4

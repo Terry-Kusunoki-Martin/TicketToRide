@@ -1,0 +1,100 @@
+Vancouver:Calgary:3:None
+Vancouver:Seattle:1:None
+Vancouver:Seattle:1:None
+Seattle:Helena:6:Yellow
+Calgary:Seattle:4:None
+Calgary:Helena:4:None
+Calgary:Winnipeg:6:White
+Helena:Winnipeg:4:Blue
+Helena:Duluth:6:Orange
+Winnipeg:Duluth:4:Black
+Winnipeg:Sault St. Marie:6:None
+Duluth:Sault St. Marie:3:None
+Duluth:Toronto:6:Pink
+Sault St. Marie:Montreal:5:Black
+Sault St. Marie:Toronto:2:None
+Toronto:Montreal:3:None
+Montreal:New York City:3:Blue
+Montreal:Boston:2:None
+Montreal:Boston:2:None
+Boston:New York City:2:Yellow
+Boston:New York City:2:Red
+Seattle:Portland:1:None
+Seattle:Portland:1:None
+Portland:San Francisco:5:Green
+Portland:San Francisco:5:Pink
+Portland:Salt Lake City:6:Blue
+San Francisco:Salt Lake City:5:Orange
+San Francisco:Salt Lake City:5:White
+San Francisco:Los Angeles:3:Yellow
+San Francisco:Los Angeles:3:Pink
+Los Angeles:Las Vegas:2:None
+Las Vegas:Salt Lake City:3:Orange
+Salt Lake City:Helena:3:Pink
+Salt Lake City:Denver:3:Red
+Salt Lake City:Denver:3:Yellow
+Los Angeles:Phoenix:3:None
+Los Angeles:El Paso:6:Black
+Phoenix:El Paso:3:None
+Phoenix:Sante Fe:3:None
+Phoenix:Denver:5:White
+El Paso:Sante Fe:2:None
+Sante Fe:Denver:2:None
+Denver:Helena:4:Green
+Denver:Omaha:4:Pink
+Denver:Kansas City:4:Black
+Denver:Kansas City:4:Orange
+Denver:Oklahoma City:4:Red
+Sante Fe:Oklahoma City:3:Blue
+El Paso:Oklahoma City:5:Yellow
+El Paso:Dallas:4:Red
+El Paso:Houston:6:Green
+Helena:Omaha:5:Red
+Omaha:Duluth:2:None
+Omaha:Duluth:2:None
+Omaha:Chicago:4:Blue
+Omaha:Kansas City:1:None
+Omaha:Kansas City:1:None
+Kansas City:Saint Louis:2:Blue
+Kansas City:Saint Louis:2:Pink
+Kansas City:Oklahoma City:2:None
+Kansas City:Oklahoma City:2:None
+Oklahoma City:Little Rock:2:None
+Oklahoma City:Dallas:2:None
+Oklahoma City:Dallas:2:None
+Dallas:Little Rock:2:None
+Dallas:Houston:1:None
+Dallas:Houston:1:None
+Houston:New Orleans:2:None
+Duluth:Chicago:3:Red
+Chicago:Toronto:4:White
+Chicago:Pittsburgh:3:Orange
+Chicago:Pittsburgh:3:Black
+Chicago:Saint Louis:2:White
+Chicago:Saint Louis:2:Green
+Saint Louis:Pittsburgh:5:Green
+Saint Louis:Nashville:2:None
+Saint Louis:Little Rock:2:None
+Little Rock:Nashville:3:White
+Little Rock:New Orleans:3:Green
+Nashville:Raleigh:3:Black
+Nashville:Atlanta:1:None
+New Orleans:Atlanta:4:Yellow
+New Orleans:Atlanta:4:Orange
+New Orleans:Miami:6:Red
+Miami:Atlanta:5:Blue
+Miami:Charleston:4:Pink
+Atlanta:Charleston:2:None
+Charleston:Raleigh:2:None
+Raleigh:Pittsburgh:2:None
+Raleigh:Washington:2:None
+Raleigh:Washington:2:None
+Raleigh:Atlanta:2:None
+Raleigh:Atlanta:2:None
+Pittsburgh:Washington:2:None
+Pittsburgh:New York City:2:White
+Pittsburgh:New York City:2:Green
+New York City:Washington:2:Black
+New York City:Washington:2:Orange
+Pittsburgh:Toronto:2:None
+Pittsburgh:Nashville:4:Yellow

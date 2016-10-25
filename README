@@ -1,0 +1,41 @@
+CS35 Lab 12
+
+Name 1: (First and Last Name)
+Name 2: (NONE if you worked alone)
+
+userName1: 
+userName2: 
+
+---------------------------------
+
+1. In 3-4 sentences, describe your overall design/approach to solving
+the main part of the lab.  That is, how did you decide to represent
+the game board, user's routes, opponents routes, etc.?
+
+
+
+2. How did you solve the problem of finding the minimum cost path 
+using the existing state of the game (i.e., board with claimed routes)?
+
+
+
+3. List all features that you added.  This is to help us identify the
+components for the "creativity" score when we test your code.
+
+
+----------------------------------
+Lab Questionnaire 
+(None of these questions will have an impact on your grade, this is to 
+help provide use the feedback we need to make the course the best it can be)
+
+
+Approximately, how many hours did you take to complete this lab 
+(provide your answer as a single integer on the line below).
+
+
+How difficult did you find this lab?
+(1-5, with 5 being very difficult and 1 being very easy)
+
+
+Describe the biggest challenge you faced on this lab.
+
